@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Learn Python What Matters</h1>
+ <h1> 🐍 Learn Python What Matters 🐍</h1>
   <hr/>
 </div>
 
